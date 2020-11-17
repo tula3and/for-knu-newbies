@@ -1,6 +1,9 @@
 ## For KNU newbies
 
 - 경북대 새내기를 위한 Q&A 웹앱
+  - Build details
+    - [Expo WebView](https://docs.expo.io/versions/latest/sdk/webview/)
+    - [Expo Building Standalone Apps](https://docs.expo.io/distribution/building-standalone-apps/)
 - 경북대 보안 동아리 [KERT](https://www.facebook.com/KNU.KERT) 주관 2020 슬기로운 컴학대회 해커톤 참가 프로젝트
   - 언택트 사회에 경북대 구성원들을 위한 소프트웨어
   - 코로나로 인해 학교 관련 정보를 얻기 힘든 새내기를 위한 Q&A 웹앱
