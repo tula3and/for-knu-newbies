@@ -3,6 +3,7 @@
 - 경북대 새내기를 위한 Q&A 웹앱
   - [크누뉴비 (KNU Newbies) 다운로드 링크](https://drive.google.com/file/d/1f90-6cTu6QHVHYWso7vwM34w5rQr8XwG/view?usp=sharing)
   - [크누뉴비 (KNU Newbies) 시연 영상](https://github.com/tula3and/for-knu-newbies/blob/main/knu-newbies-preview.mp4)
+    - 영상은 다운로드해야 볼 수 있습니다.
   - Build details
     - [Expo WebView](https://docs.expo.io/versions/latest/sdk/webview/)
     - [Expo Building Standalone Apps](https://docs.expo.io/distribution/building-standalone-apps/)
